@@ -95,8 +95,8 @@ A esta hora se ve también obreros caminando hacia el tranvía, policías bostez
     ,
     {
       imagen: `	https://i.ibb.co/59Cczj8/fhwerhkfr-page-0001.jpg`,
-      respuesta: `Lee el texto y  Responde las siguientes Preguntas.	` ,
-      pregunta: `	Siri solo entiende el idioma, no el sentido de las frases. `,
+      respuesta: `Siri solo entiende el idioma, no el sentido de las frases.	` ,
+      pregunta: `	 `,
       distractores: [`	Sin interpreta lo que una persona quiere decir y sentir.			`, `	Siri comprende la situación emocional de los clientes.		`, `		 Siri entiende el sentido y significado de las frases.		`],
     }
     ,
